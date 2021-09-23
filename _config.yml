@@ -1,0 +1,25 @@
+# Site settings
+page_title: novacard.ro
+email: contact@novacard.ro
+phone: +40758223215 / +40757846420
+description: Novacard profile template_1
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://template_1.novacard.ro" # the base hostname & protocol for your site
+
+# Identity
+name: Nova Card
+title: 
+company: 
+
+# Social settings
+facebook_url: https://www.facebook.com/novacard/
+github_url:
+gitlab_url: 
+instagram_url: https://www.instagram.com/novacard/
+linkedin_url: https://www.linkedin.com/company/novacard
+pinterest_url:
+slack_url:
+twitter_url:
+
+# Build settings
+markdown: kramdown
