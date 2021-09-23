@@ -862,3 +862,8 @@
     p.occupation{
 		margin: 0 0 1em 0;;
 	}  
+	
+	span.avatar img {
+		max-width: 200px;
+		max-height: 200px;
+	}
