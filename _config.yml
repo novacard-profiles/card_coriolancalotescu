@@ -3,7 +3,8 @@ description: Novacard profile template_1
 baseurl: "/" 
 url: "https://template1.novacard.ro" 
 avatar: "avatar.jpeg"
-contact-name: Nova Card
+contact-first_name: Nova 
+contact-last_name: Card
 contact-title:
 contact-company:
 contact-email: contact@novacard.ro
