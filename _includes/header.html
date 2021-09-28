@@ -9,13 +9,13 @@
 		{% else %}
 			<span class="avatar"><img src="/assets/images/avatar_placeholder.jpeg" alt="" /></span>
 		{% endif %}
-		<h1>{{ site.name }}</h1>
+		<h1>{{ site.contact-name }}</h1>
 		
 		{% if site.title %}
-			<p class="occupation">{{ site.title }}</p>
+			<p class="occupation">{{ site.contact-title }}</p>
 		{% endif %}
 		
 		{% if site.company %}
-			<p class="company-name">{{ site.company }}</p>
+			<p class="company-name">{{ site.contact-company }}</p>
 		{% endif %}
 	</header>
