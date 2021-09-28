@@ -3,6 +3,7 @@ page_title: novacard.ro
 description: Novacard profile template_1
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://template1.novacard.ro" # the base hostname & protocol for your site
+avatar: "avatar.jpeg"
 
 
 # Identity
