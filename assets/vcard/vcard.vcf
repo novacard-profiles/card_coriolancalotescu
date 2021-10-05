@@ -6,5 +6,10 @@ PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgICAgMCAgIDAwMDB
 TITLE:Director
 ORG:Diamond House Boutique;
 TEL;type=CELL;type=VOICE;type=pref:+40745033585
+item1.URL;type=pref:http
+item1.X-ABLabel:_$!<HomePage>!$_
 X-SOCIALPROFILE;type=facebook:https
+X-SOCIALPROFILE;type=linkedin:https
+X-SOCIALPROFILE;type=instagram:https
+X-SOCIALPROFILE;type=whatsapp:https
 END:VCARD
