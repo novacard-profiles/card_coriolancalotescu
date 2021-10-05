@@ -8,8 +8,8 @@ ORG:Diamond House Boutique;
 TEL;type=CELL;type=VOICE;type=pref:+40745033585
 item1.URL;type=pref:http
 item1.X-ABLabel:_$!<HomePage>!$_
-X-SOCIALPROFILE;type=facebook:https
-X-SOCIALPROFILE;type=linkedin:https
-X-SOCIALPROFILE;type=instagram:https
-X-SOCIALPROFILE;type=whatsapp:https
+X-SOCIALPROFILE;type=facebook:https://www.facebook.com/coriolan.calotescu
+X-SOCIALPROFILE;type=linkedin:https://www.linkedin.com/in/coriolan-calotescu-b7246a61/
+X-SOCIALPROFILE;type=instagram:https://www.instagram.com/coriolancalotescu/
+X-SOCIALPROFILE;type=whatsapp:https://wa.me/40745033585
 END:VCARD
