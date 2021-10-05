@@ -867,3 +867,12 @@
 		max-width: 200px;
 		max-height: 200px;
 	}
+
+    a#download-vcf {
+	    border: 1px solid #d2d4d7;
+	    padding-top: 5px;
+	    padding-bottom: 5px;
+	    padding-left: 20px;
+	    padding-right: 20px;
+	    border-radius: 20px;
+	}
